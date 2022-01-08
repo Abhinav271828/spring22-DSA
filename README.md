@@ -15,3 +15,8 @@ Notes and resources for the Digital Signal Analysis course at IIIT Hyderabad.
         - Introduction
         - Fourier Series and Transform
             - Fourier Series
+    - Lecture 2 (08 Jan, Saturday)
+        - Fourier Series and Transform
+            - Fourier Series (contd.)
+            - Fourier Transform
+                - Properties of FT
