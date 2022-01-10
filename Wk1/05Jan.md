@@ -26,6 +26,6 @@ where $T$ is the period of $f$. We sometimes write $\omega_0$ for $\frac{2\pi}{T
 
 The coefficients can be calculated as
 $$\begin{split}
-a_n &= \frac{2}{T} \int_0^T f(t) cos \left(2\pi n \frac{t}{T}\right) \\
-b_n &= \frac{2}{T} \int_0^T f(t) sin \left(2\pi n \frac{t}{T} \right).\end{split}$$
+a_n &= \frac{2}{T} \int_0^T f(t) \cos \left(2\pi n \frac{t}{T}\right) dt \\
+b_n &= \frac{2}{T} \int_0^T f(t) \sin \left(2\pi n \frac{t}{T} \right) dt.\end{split}$$
 These can be derived by multiplying by sine and cosine, and integrating, both sides of the first identity.
