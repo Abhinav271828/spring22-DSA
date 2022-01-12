@@ -1,7 +1,7 @@
 ---
 title: Digital Signal Analysis (CS7.303)
 subtitle: |
-          | Monsoon 2021, IIIT Hyderabad
+          | Spring 2022, IIIT Hyderabad
           | 05 Jan, Wednesday (Lecture 1)
 author: Taught by Prof. Anil Kumar Vuppala
 ---
