@@ -2,7 +2,7 @@
 Notes and resources for the Digital Signal Analysis course at IIIT Hyderabad.
 
 # Course Contents
-- [ ] Fourier Series and Transform
+- [x] Fourier Series and Transform
 - [ ] Sampling and Quantisation
 - [ ] Discrete Signals and Systems
 - [ ] Z-Transform
@@ -20,3 +20,10 @@ Notes and resources for the Digital Signal Analysis course at IIIT Hyderabad.
             - Fourier Series (contd.)
             - Fourier Transform
                 - Properties of FT
+* Week 2
+    - Lecture 3 (12 Jan, Wednesday)
+        - Fourier Series and Transform
+            - Fourier Transform
+                - Properties of FT (contd.)
+                - Discrete-Time Fourier Transform
+                - Discrete Fourier Transform
