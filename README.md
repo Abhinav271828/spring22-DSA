@@ -33,3 +33,9 @@ Notes and resources for the Digital Signal Analysis course at IIIT Hyderabad.
         - Discrete Signals
         - Systems
             - Classification of Systems
+    - Lecture 5 (22 Jan, Saturday)
+        - Systems (contd.)
+            - LTI Systems
+        - Sampling and Quantisation
+            - Sampling
+            - Quantisation
