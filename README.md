@@ -39,3 +39,6 @@ Notes and resources for the Digital Signal Analysis course at IIIT Hyderabad.
         - Sampling and Quantisation
             - Sampling
             - Quantisation
+* Week 4
+    - Lecture 6 (24 Jan, Monday)
+        - Discrete Fourier Transform
