@@ -42,3 +42,7 @@ Notes and resources for the Digital Signal Analysis course at IIIT Hyderabad.
 * Week 4
     - Lecture 6 (24 Jan, Monday)
         - Discrete Fourier Transform
+    - Lecture 7 (29 Jan, Saturday)
+        - Circular Convolution
+        - Fast Fourier Transform
+            - Motivation
