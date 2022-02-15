@@ -1,10 +1,10 @@
-# spring22-DSA
+#Gspring22-DSA
 Notes and resources for the Digital Signal Analysis course at IIIT Hyderabad.
 
 # Course Contents
 - [x] Fourier Series and Transform
 - [x] Sampling and Quantisation
-- [ ] Discrete Signals and Systems
+- [x] Discrete Signals and Systems
 - [ ] Z-Transform
 - [ ] Digital Filter Design
 - [ ] Applications
@@ -46,3 +46,17 @@ Notes and resources for the Digital Signal Analysis course at IIIT Hyderabad.
         - Circular Convolution
         - Fast Fourier Transform
             - Motivation
+* Week 5
+    - Lecture 8 (05 Feb, Saturday)
+        - Fast Fourier Transform (contd.)
+            - Decimation in Frequency and Time
+                - Decimation in Frequency (DIF)
+                - Decimation in Time (DIT)
+            - IDFT Using FFT
+* Week 6
+    - Lectures 9 & 10 (09 Feb, Wednesday)
+        - Z-Transform
+            - Examples
+            - Properties
+            - Inverse Z-Transform
+            - Application
