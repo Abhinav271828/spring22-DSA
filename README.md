@@ -60,3 +60,10 @@ Notes and resources for the Digital Signal Analysis course at IIIT Hyderabad.
             - Properties
             - Inverse Z-Transform
             - Application
+* Week 7
+    - Lecture 11 (16 Feb, Wednesday)
+        - Z-Transform (contd.)
+            - LTI Systems
+            - Causal and Stable Systems
+            - Natural and Forced Responses
+        - Filter Design
