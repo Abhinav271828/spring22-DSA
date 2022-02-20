@@ -5,9 +5,9 @@ Notes and resources for the Digital Signal Analysis course at IIIT Hyderabad.
 - [x] Fourier Series and Transform
 - [x] Sampling and Quantisation
 - [x] Discrete Signals and Systems
-- [ ] Z-Transform
-- [ ] Digital Filter Design
-- [ ] Applications
+- [x] Z-Transform
+- [x] Digital Filter Design
+- [x] Applications
 
 # Lecture Contents
 * Week 1
@@ -67,3 +67,5 @@ Notes and resources for the Digital Signal Analysis course at IIIT Hyderabad.
             - Causal and Stable Systems
             - Natural and Forced Responses
         - Filter Design
+    - Lecture 12 (19 Feb, Saturday)
+        - Speech Production
